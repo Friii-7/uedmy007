@@ -1,0 +1,20 @@
+body{
+    background: url("./img/img1.webp");
+    background-attachment: fixed;
+    min-height: 0px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover
+}
+#logo{
+    background: #030010;
+}
+
+#menu ul li:hover{
+    background: #030010;
+}
+
+.button-more{
+   
+    background-color: #030010;
+}
