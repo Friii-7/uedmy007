@@ -66,8 +66,8 @@
 }
 
 .post{
-    padding: 7px;
-    text-align: 5px;
+    padding: 0px;
+    text-align: 0px;
 }
 
 .post h2{
@@ -110,9 +110,9 @@
     margin-top: 50px;
     margin-bottom: 20px;
     text-align: center;
-    line-height: 10px;
+    line-height: 0px;
     color: #333;
-    background: url("../img/img33.jpg") repeat-x;
+    background: url("./img/img3.jpg") repeat-x;
 }
 #sidbar h4 span{
     background: white;
@@ -188,7 +188,7 @@ footer {
     background: #ed2c06;
 }
 #to-blue{
-    background: #00a2ff;
+    background: #011d2d;
 }
 
 .subir{
@@ -199,7 +199,7 @@ footer {
 }
 
 #box{
-    width: 60px;
+    width: 462px;
     float: left;
-    margin-top: 40px;
+    margin-top: 70px;
 }
